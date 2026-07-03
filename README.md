@@ -550,3 +550,131 @@ Developed Machine Learning applications and analytical solutions focused on cybe
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6D28D9,50:7C3AED,100:312E81"/>
 
 </div>
+---
+
+# 📖 Developer Philosophy
+
+<div align="center">
+
+> **"Great software isn't just about writing code—it's about solving real problems with clean architecture, meaningful insights, and continuous innovation."**
+
+</div>
+
+I believe that data has the power to transform businesses when combined with strong analytical thinking and modern technology. My goal is to build scalable, intelligent, and impactful solutions that bridge the gap between business requirements and technology.
+
+I continuously invest time in learning new technologies, improving problem-solving skills, and contributing to projects that create measurable value.
+
+---
+
+# 📅 2026 Development Goals
+
+<div align="center">
+
+| Goal | Progress |
+|------|:--------:|
+| 🏆 Secure Full-Time Data Analyst Role | 🎯 |
+| 📊 Build 20+ Analytics Projects | 🚧 |
+| 🤖 Master Machine Learning | 🚧 |
+| ☁️ Learn Cloud Technologies | 🚧 |
+| 📈 Reach 1000+ GitHub Contributions | 🚧 |
+| 🌍 Contribute to Open Source | 🚧 |
+| 📚 Earn Professional Certifications | 🚧 |
+| 💼 Build Enterprise Portfolio | 🚧 |
+
+</div>
+
+---
+
+# 📈 Weekly Development Routine
+
+```text
+Monday      ████████████████ SQL Practice
+Tuesday     ████████████████ Python Development
+Wednesday   ████████████████ Power BI Dashboard
+Thursday    ████████████████ Machine Learning
+Friday      ████████████████ Data Analysis
+Saturday    ████████████████ Open Source & GitHub
+Sunday      ████████████████ Learning & Revision
+```
+
+---
+
+# 🌐 Areas of Interest
+
+<div align="center">
+
+| Data Analytics | Artificial Intelligence | Software Engineering |
+|:--------------:|:----------------------:|:--------------------:|
+| Business Intelligence | Machine Learning | Backend Development |
+| Dashboard Development | Predictive Analytics | Problem Solving |
+| Data Visualization | Deep Learning | System Design |
+| Data Cleaning | NLP | Scalable Applications |
+
+</div>
+
+---
+
+# 📊 Profile Metrics
+
+<div align="center">
+
+![](https://img.shields.io/badge/Profile-Enterprise%20Ready-6D28D9?style=for-the-badge)
+
+![](https://img.shields.io/badge/Focus-Data%20Analytics-7C3AED?style=for-the-badge)
+
+![](https://img.shields.io/badge/Open%20To-Full--Time-4F46E5?style=for-the-badge)
+
+![](https://img.shields.io/badge/Learning-Everyday-312E81?style=for-the-badge)
+
+</div>
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm always interested in collaborating on:
+
+- 📊 Data Analytics Projects
+- 🤖 Machine Learning Applications
+- 📈 Business Intelligence Dashboards
+- 🧩 Open Source Projects
+- 🐍 Python Automation
+- 💼 Industry-Level Analytics Solutions
+
+---
+
+# 📬 Contact Me
+
+<div align="center">
+
+<a href="mailto:saquib1102@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohd-saquib-398ba1290">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/saquibx-art">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💜 Thank You for Visiting My Profile
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Keep%20Learning%20•%20Keep%20Building%20•%20Keep%20Growing&fontSize=28&color=0:312E81,25:4F46E5,50:6D28D9,75:7C3AED,100:8B5CF6&fontColor=ffffff"/>
+
+### ⭐ If you enjoy my work, consider starring my repositories and following my GitHub journey!
+
+---
+
+### *"Turning Data into Decisions, Code into Solutions, and Ideas into Impact."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:312E81,40:4F46E5,70:6D28D9,100:8B5CF6"/>
+
+</div>
