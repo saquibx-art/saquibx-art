@@ -442,3 +442,111 @@ Developed Machine Learning applications and analytical solutions focused on cybe
 ---
 
 # 🏆 Git
+---
+
+# 🌟 Professional Highlights
+
+<div align="center">
+
+| 🎯 Focus Area | 🚀 Expertise |
+|--------------|-------------|
+| 📊 Data Analytics | Python, SQL, Power BI, Excel |
+| 🤖 Machine Learning | Scikit-Learn, Pandas, NumPy |
+| 📈 Business Intelligence | KPI Dashboards & Reporting |
+| 💻 Programming | Python, SQL, C |
+| 🧠 Problem Solving | Data-Driven Decision Making |
+| 📚 Continuous Learning | AI, ML & Analytics |
+
+</div>
+
+---
+
+# 📚 Learning Roadmap
+
+<div align="center">
+
+| Quarter | Goal | Status |
+|---------|------|--------|
+| ✅ Q1 | Advanced Python | Completed |
+| 🔄 Q2 | SQL for Analytics | In Progress |
+| 🔄 Q3 | Power BI & DAX | In Progress |
+| 🎯 Q4 | Machine Learning | Planned |
+| 🎯 Q5 | Azure / AWS Cloud | Planned |
+| 🎯 Q6 | Data Engineering | Planned |
+
+</div>
+
+---
+
+# ⚡ Tools & Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,tensorflow"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+</div>
+
+---
+
+# 📈 2026 Goals
+
+- ✅ Secure a Full-Time Data Analyst Role
+- ✅ Master SQL & Advanced Analytics
+- ✅ Build 15+ End-to-End Data Projects
+- ✅ Reach 500+ GitHub Contributions
+- ✅ Contribute to Open Source
+- ✅ Earn Google Data Analytics Certification
+- ✅ Earn Microsoft Power BI Certification
+- ✅ Strengthen Machine Learning Skills
+
+---
+
+# 📌 What I'm Working On
+
+```text
+🔹 Building Business Intelligence Dashboards
+🔹 Solving SQL Challenges Daily
+🔹 Learning Advanced Data Analytics
+🔹 Developing Machine Learning Applications
+🔹 Creating an Enterprise Data Portfolio
+🔹 Exploring AI-Powered Business Solutions
+```
+
+---
+
+# 📊 Profile Summary
+
+```text
+👨‍💻 Name          : Mohd Saquib
+🎓 Degree         : B.Tech CSE (2026)
+🏫 University     : Jamia Hamdard University
+📍 Location       : India
+💼 Looking For    : Full-Time Data Analyst Roles
+📊 Primary Skills : Python • SQL • Power BI • Excel
+🤖 Interests      : AI • ML • Data Analytics
+🚀 Career Goal    : Data Analyst @ Top MNC
+```
+
+---
+
+<div align="center">
+
+## 💜 Thanks for Visiting!
+
+### ⭐ If you find my projects useful, consider following my journey and starring my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6D28D9,50:7C3AED,100:312E81"/>
+
+</div>
