@@ -139,3 +139,253 @@ Currently, I'm focused on sharpening my analytical thinking, mastering modern da
 </div>
 
 ---
+---
+
+# 🚀 Featured Projects
+
+<details>
+<summary><b>🛡️ Machine Learning Based Phishing Website Detection System</b></summary>
+
+### Overview
+
+Designed and developed an intelligent phishing website detection system capable of identifying malicious websites using Machine Learning algorithms. The solution analyzes multiple website characteristics to classify URLs with high accuracy, helping users detect cyber threats before accessing harmful websites.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | Python • Scikit-Learn • Pandas • NumPy • Flask • HTML • CSS • JavaScript |
+| **Dataset** | Phishing Websites Dataset |
+| **ML Models** | Random Forest • Decision Tree • Logistic Regression |
+| **Performance** | High Accuracy Classification |
+| **Security** | Feature Engineering & URL Analysis |
+| **Deployment** | Flask Web Application |
+| **Repository** | *Coming Soon* |
+
+### Key Highlights
+
+- Machine Learning powered phishing detection
+- Real-time website prediction
+- Intelligent feature extraction
+- Interactive web interface
+- Data preprocessing pipeline
+- Model evaluation & optimization
+- User-friendly dashboard
+
+---
+
+### Business Impact
+
+The project demonstrates practical application of Artificial Intelligence in Cybersecurity by enabling users to identify phishing websites before exposing sensitive information.
+
+</details>
+
+---
+
+<details>
+<summary><b>📊 Sales Performance Analytics Dashboard</b></summary>
+
+### Overview
+
+Developed an interactive Power BI dashboard that transforms raw sales data into actionable business insights through KPI tracking, trend analysis, and executive-level visualizations.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | Power BI • SQL • Excel |
+| **Dataset** | Retail Sales Dataset |
+| **Visualization** | Interactive Dashboards |
+| **Performance** | Dynamic KPI Tracking |
+| **Security** | Clean Data Model |
+| **Business Impact** | Improved Decision Making |
+| **Repository** | Coming Soon |
+
+### Features
+
+- Executive Dashboard
+- Revenue Analysis
+- Profit Margin Analysis
+- Regional Performance
+- Customer Segmentation
+- Monthly Trends
+- Product Performance
+- Dynamic Filters
+
+---
+
+### Business Value
+
+Provides executives with real-time insights that support data-driven decisions and improve sales strategy.
+
+</details>
+
+---
+
+<details>
+<summary><b>👥 HR Analytics Dashboard</b></summary>
+
+### Overview
+
+Built a comprehensive HR Analytics solution that helps organizations monitor employee performance, workforce trends, and attrition using interactive Power BI dashboards.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | Power BI • SQL • Excel |
+| **Dashboard Type** | HR Analytics |
+| **Visualization** | Interactive Reports |
+| **Scale** | Enterprise Ready |
+| **Performance** | KPI Monitoring |
+| **Business Impact** | Workforce Optimization |
+| **Repository** | Coming Soon |
+
+### Features
+
+- Employee Attrition Analysis
+- Department Performance
+- Gender Diversity Metrics
+- Salary Distribution
+- Employee Satisfaction
+- Hiring Trends
+- Workforce Analytics
+
+---
+
+### Business Value
+
+Helps HR departments identify workforce trends and improve employee retention through data-driven insights.
+
+</details>
+
+---
+
+<details>
+<summary><b>📈 Customer Churn Prediction</b></summary>
+
+### Overview
+
+Developed a predictive Machine Learning model capable of identifying customers likely to discontinue services, enabling proactive retention strategies.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | Python • Scikit-Learn • Pandas |
+| **Model** | Classification |
+| **Performance** | High Prediction Accuracy |
+| **Business Impact** | Customer Retention |
+| **Visualization** | Python Charts |
+| **Repository** | Coming Soon |
+
+### Features
+
+- Customer Risk Prediction
+- Feature Engineering
+- Model Evaluation
+- Business Intelligence Reports
+- Predictive Analytics
+
+---
+
+### Business Value
+
+Supports organizations in reducing customer churn and increasing long-term profitability using predictive analytics.
+
+</details>
+
+---
+
+<details>
+<summary><b>🛒 E-Commerce Sales Analysis</b></summary>
+
+### Overview
+
+Performed end-to-end sales analysis using SQL, Excel, and Power BI to uncover trends, customer behavior, and revenue opportunities.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | SQL • Excel • Power BI |
+| **Analysis Type** | Business Intelligence |
+| **Visualization** | Interactive Dashboard |
+| **Performance** | Real-Time KPI Analysis |
+| **Business Impact** | Sales Optimization |
+| **Repository** | Coming Soon |
+
+### Features
+
+- Customer Analysis
+- Revenue Tracking
+- Product Performance
+- Regional Sales
+- Monthly Growth
+- Profitability Insights
+- Executive Reporting
+
+---
+
+### Business Value
+
+Transforms complex transactional data into clear visual insights that support strategic business decisions.
+
+</details>
+
+---
+
+# 💼 Professional Experience
+
+## 🎓 Machine Learning Project Developer
+
+**Academic Project • Jamia Hamdard University**
+
+**2025 — Present**
+
+Developed Machine Learning applications and analytical solutions focused on cybersecurity, predictive modeling, and business intelligence while strengthening expertise in Python, SQL, Power BI, and data visualization.
+
+### Responsibilities
+
+- Designed end-to-end Machine Learning workflows.
+- Built data preprocessing and feature engineering pipelines.
+- Developed interactive dashboards using Power BI.
+- Performed SQL-based data extraction and analysis.
+- Conducted exploratory data analysis (EDA).
+- Implemented classification algorithms for predictive analytics.
+- Created business reports and KPI dashboards.
+- Collaborated on academic software development projects.
+
+### Core Skills
+
+`Python` • `SQL` • `Power BI` • `Excel` • `Machine Learning` • `Pandas` • `NumPy` • `Data Visualization` • `Business Analytics` • `Problem Solving`
+
+---
+
+# 🏆 Achievements
+
+| Recognition | Details |
+|-------------|---------|
+| 🎓 B.Tech Computer Science Student | Jamia Hamdard University |
+| 📊 Aspiring Data Analyst | Focused on Business Intelligence & Analytics |
+| 🤖 Machine Learning Developer | Built ML-powered phishing detection system |
+| 📈 Dashboard Developer | Power BI & Excel Analytics Projects |
+| 💻 Python Programmer | Data Analysis & Automation |
+| 🗄️ SQL Practitioner | Database Querying & Analytics |
+| 📚 Continuous Learner | Expanding expertise in AI & Data Science |
+
+---
+
+# 📜 Certifications
+
+> *Currently pursuing industry-recognized certifications.*
+
+### Google
+
+- Google Data Analytics Professional Certificate *(Planned)*
+
+### Microsoft
+
+- Microsoft Power BI Data Analyst *(Planned)*
+
+### AWS
+
+- AWS Cloud Practitioner *(Planned)*
+
+### Cisco
+
+- Cisco Data Analytics Essentials *(Planned)*
+
+### NPTEL
+
+- Programming & Data Science Courses
