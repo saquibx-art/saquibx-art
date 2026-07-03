@@ -389,3 +389,56 @@ Developed Machine Learning applications and analytical solutions focused on cybe
 ### NPTEL
 
 - Programming & Data Science Courses
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://github.com/saquibx-art">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LeetCode-Coming%20Soon-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/HackerRank-Coming%20Soon-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coming%20Soon-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Kaggle-Coming%20Soon-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saquibx-art&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saquibx-art&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=saquibx-art&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Git
